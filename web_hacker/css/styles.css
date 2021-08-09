@@ -1,0 +1,52 @@
+.container {
+    display: flex;
+}
+label {
+    display: block;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+#submit {
+    display: block;
+    margin-top: 20px;
+    background-color: black;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    border-color: green;
+    color: white;
+}
+.login {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    margin-top: 100px;
+}
+#username{
+    background-color: black;
+    width: 300px;
+    height: 30px;
+    color: white;
+    border-color: green;
+    border-radius: 10px;
+}
+#password{
+    background-color: black;
+    width: 300px;
+    height: 30px;
+    color: white;
+    border-color: green;
+    border-radius: 10px;
+}
+.welcome {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    border: 3px solid white;
+    padding: 10px;
+    color: white;
+    margin-top: 150px;
+    background-color: brown;
+}
